@@ -1,0 +1,10 @@
+D:\fiswk_NEW\FIS Library\Encryption\bin\Debug\Encryption.dll
+D:\fiswk_NEW\FIS Library\Encryption\bin\Debug\Encryption.pdb
+D:\fiswk_NEW\FIS Library\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+D:\fiswk_NEW\FIS Library\Encryption\obj\Debug\Encryption.dll
+D:\fiswk_NEW\FIS Library\Encryption\obj\Debug\Encryption.pdb
+D:\git\My Github Repositories\Encryption\Encryption\bin\Debug\Encryption.dll
+D:\git\My Github Repositories\Encryption\Encryption\bin\Debug\Encryption.pdb
+D:\git\My Github Repositories\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+D:\git\My Github Repositories\Encryption\Encryption\obj\Debug\Encryption.dll
+D:\git\My Github Repositories\Encryption\Encryption\obj\Debug\Encryption.pdb
